@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vedecká skupina - Meno Školiteľa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Vedecká skupina - Meno Školiteľa</h1>
+        <nav>
+            <ul>
+                <li><a href="#o-nas">O nás</a></li>
+                <li><a href="#vyskum">Výskum</a></li>
+                <li><a href="#publikacie">Publikácie</a></li>
+                <li><a href="#kontakt">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="o-nas">
+            <h2>O nás</h2>
+            <p>Popis vedeckej skupiny a jej cieľov...</p>
+        </section>
+
+        <section id="vyskum">
+            <h2>Výskum</h2>
+            <p>Informácie o aktuálnych výskumných projektoch...</p>
+        </section>
+
+        <section id="publikacie">
+            <h2>Publikácie</h2>
+            <ul>
+                <li><a href="https://doi.org/example1">Publikácia 1</a></li>
+                <li><a href="https://doi.org/example2">Publikácia 2</a></li>
+            </ul>
+        </section>
+
+        <section id="kontakt">
+            <h2>Kontakt</h2>
+            <p>Email: skolitel@example.com</p>
+            <p>Adresa: Univerzita XY, Mesto</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Vedecká skupina - Meno Školiteľa</p>
+    </footer>
+</body>
+</html>
